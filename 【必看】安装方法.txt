@@ -1,0 +1,14 @@
+先把已经安装的QQ卸载干净（包括残留的注册表）
+
+进入解压出来的文件夹“QQ”
+
+鼠标右键文件“!绿化.bat”使用管理员权限运行
+
+等待自动完成后按下键盘的回车即可
+
+另外还有三个QQ的官方小组件的离线安装包已经在压缩包里面了，可供选用安装：
+视频留言组件：https://dldir1.qq.com/qqfile/qq/videomsg/VideoMsgInstall.exe
+视频播放组件：https://dldir1.qq.com/qqfile/qq/plugin/VideoShowPlayerInstall.exe
+视频美化组件：https://dldir1.qq.com/qqfile/qq/plugin/VideoBeautyInstall.exe
+
+其中，视频播放组件已经安装，无需重复安装
