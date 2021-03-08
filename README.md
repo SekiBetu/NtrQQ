@@ -3,7 +3,7 @@
 
 
 
-#### 绿色版制作过程：
+## 绿色版制作过程：
 
 1. 解压缩QQ安装包中的File文件夹
 2. 在根目录使用QQ精简脚本
@@ -16,7 +16,7 @@
 
 
 
-#### 插件目录详解
+## 插件目录详解
 
 [删] Com.Tencent.Advertisement（广告插件，可删。）
 
@@ -95,3 +95,9 @@ Com.Tencent.Winks（作为魔法表情已在QQ8.8被移除了，但是从QQ8.0�
 Com.Tencent.Wireless（无线组件，关联主面板我的设备显示，发送到手机功能。）
 
 Com.Tencent.XiuRoom（腾讯课堂、花样交友、花样直播、齐齐直播；群视频功能也需要Bin目录下的odProxy.dll和本插件，后台下载的群视频组件目录是%AppData%\od。）
+
+
+
+## 测试版下载地址
+
+https://pc.qq.com/detail/7/detail_10067.html
