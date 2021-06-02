@@ -10,7 +10,7 @@
 3. 删除Plugin目录下一系列无用插件(详见下方标记为 [删] 的插件)
 4. 放置NtrQQ插件至bin目录或者使用去校验补丁
 5. 解压缩QQ安装包中的.rsrc/2052/MSI/102/TXSSOSetup.exe/TXSSO 文件夹至bin目录
-6. 放置VideoShowPlayerInstall组件至bin目录
+6. ~~放置VideoShowPlayerInstall组件至bin目录(QQ9.4.8开始安装包中的文件已经包含)~~
 
 7. 放置QQ绿化脚本至根目录并使用
 
