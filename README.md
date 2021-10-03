@@ -36,6 +36,8 @@ Com.Tencent.GameLife（游戏人生，腾讯游戏爱好者需要，不用可删
 
 [删] Com.Tencent.Graffito（QQ8.8已移除了涂鸦编辑和魔法表情，取而代之的是表情DIY，已经不依赖这个插件，可删。）
 
+Com.Tencent.Guild（QQ公会，可能是直播类的东西，可删。）
+
 [删] Com.Tencent.HRTX（基本没人用的，叫什么腾讯通，可删。）
 
 [删] Com.Tencent.IOT（智能物联？对大多人没有什么用，可删。）
